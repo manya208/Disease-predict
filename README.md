@@ -1,6 +1,6 @@
 Heart Disease Predictor
 Overview
-This is a beginner-level machine learning project to predict heart disease using the UCI Heart Disease dataset from Kaggle. It uses a Random Forest Classifier to predict whether a person has heart disease based on features like age, blood pressure, cholesterol, and more. The project was developed in a Jupyter Notebook (renamed to heart_disease_predictor.ipynb from Untitled1.ipynb).
+This is a beginner-level machine learning project to predict heart disease using the UCI Heart Disease dataset from Kaggle. It uses a Random Forest Classifier to predict whether a person has heart disease based on features like age, blood pressure, cholesterol, and more. The project was developed in a Jupyter Notebook ( heart_disease_predictor.ipynb ).
 Dataset
 
 Source: Kaggle UCI Heart Disease dataset
